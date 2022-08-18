@@ -34,7 +34,7 @@
     ]
   },
   "prefix": {
-    "default": "`?`",
+    "default": "`+`",
     "description": "The prefix of the bot.",
     "examples": [
       "`{prefix}prefix !`",
